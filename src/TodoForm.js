@@ -19,6 +19,7 @@ export default function TodoForm({ addTodo }) {
           margin="normal"
           label="Add New Todo"
           fullWidth
+          variant="standard"
         />
       </form>
     </Paper>
