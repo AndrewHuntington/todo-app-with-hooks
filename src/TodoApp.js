@@ -1,7 +1,6 @@
 import React from "react";
 import TodoList from "./TodoList";
 import TodoForm from "./TodoForm";
-import useTodoState from "./hooks/useTodoState";
 import { Typography, Paper, AppBar, Toolbar, Grid } from "@mui/material";
 import { TodosProvider } from "./contexts/todos.context";
 
